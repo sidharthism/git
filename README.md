@@ -1,5 +1,5 @@
 # git
-Git resources<br/>
+**Git resources**<br/>
 
 Learn git and git concepts<br/>
 https://www.atlassian.com/git
@@ -29,5 +29,5 @@ git push origin -u "branch name"
 <br/><br/>
 git pull "repo" //downloads and merge repo to the local repo
 <br/><br/>
-git help COMMAND
+git help COMMAND **or**
 git COMMAND --help //displays the manual page for the command in your shell window
