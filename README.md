@@ -1,2 +1,5 @@
 # git
-Git resources
+Git resources<br/>
+
+Learn git<br/>
+https://www.atlassian.com/git
