@@ -17,7 +17,7 @@ git commit -m "message"
 <br/><br/>
 git checkout -b "branch name" //creates new branch
 <br/><br/>
-git ckeckout "branch name"
+git checkout "branch name"
 <br/><br/>
 git branch //shows branch and * indicates current branch
 <br/><br/>
